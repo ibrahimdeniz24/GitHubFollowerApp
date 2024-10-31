@@ -18,5 +18,5 @@ GitHub Follower App, kullanıcıların GitHub'daki takipçilerini ve takip ettik
 1. **Projeyi klonlayın:**
 
    ```bash
-   git clone https://github.com/kullanici_adiniz/GitHubFollowerApp.git
+   git clone https://github.com/ibrahimdeniz24/GitHubFollowerApp.git
    cd GitHubFollowerApp
